@@ -3,7 +3,7 @@
         { 
             "name": "Mashup 1234 1",
             "mp3id": "1vhyUupSrxtlVDGyTEwzWZAl4vVdjrQhZ",
-            "type":"Mashup"}
+            "types": ["All", "Mashup"],
     ],
     "playList": [
     ]
