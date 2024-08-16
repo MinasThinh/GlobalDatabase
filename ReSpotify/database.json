@@ -1,0 +1,11 @@
+{
+    musicData: [
+        { id: '001', name: 'ahaha' },
+        { id: '002', name: 'ohno' },
+        { id: '003', name: 'lalala' }
+    ],
+    playList: [
+        '001',
+        '002'
+    ]
+}
