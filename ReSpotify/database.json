@@ -1,11 +1,7 @@
 {
     "musicData": [
-        { "id": "001", "name": "ahaha" },
-        { "id": "002", "name": "ohno" },
-        { "id": "003", "name": "lalala" }
+        { "id": "1", "name": "Mashup 1234 1" , "mp3id": 1vhyUupSrxtlVDGyTEwzWZAl4vVdjrQhZ},
     ],
     "playList": [
-        "001",
-        "002"
     ]
 }
