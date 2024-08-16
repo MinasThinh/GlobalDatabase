@@ -1,6 +1,6 @@
 {
     "musicData": [
-        { "id": "1", "name": "Mashup 1234 1" , "mp3id": 1vhyUupSrxtlVDGyTEwzWZAl4vVdjrQhZ},
+        { "id": "1", "name": "Mashup 1234 1" , "mp3id": "1vhyUupSrxtlVDGyTEwzWZAl4vVdjrQhZ" , "type"="Mashup"},
     ],
     "playList": [
     ]
